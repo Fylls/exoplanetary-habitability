@@ -4,9 +4,7 @@
   
 </div>
 
-As part of my freshman project at Politecnico di Milano, I analyzed all the parameters contributing to the habitability of exoplanets.
-
-The paper is divided into 3 parts.
+As part of my freshman project at Politecnico di Milano, I statistically analyzed all the parameters contributing to the habitability of exoplanets. The paper is divided into 3 parts
 
 - 𝗘𝘅𝗽𝗹𝗼𝗿𝗮𝘁𝗼𝗿𝘆 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀: Studied the distributions of data collected by the NASA Kepler Space Telescope and tried to explain the physical processes/phenomena that cause them.
 
