@@ -1,6 +1,8 @@
 <div align="center">
 
 # Exoplanetary Habitability
+
+click [here](https://github.com/fylls/exoplanetary-habitability/blob/main/exoplanetary%20habitability.pdf) to read your research paper
   
 </div>
 
