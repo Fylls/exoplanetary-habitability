@@ -2,7 +2,7 @@
 
 # Exoplanetary Habitability
 
-click [here](https://github.com/fylls/exoplanetary-habitability/blob/main/exoplanetary%20habitability.pdf) to read your research paper
+click [here](https://github.com/fylls/exoplanetary-habitability/blob/main/exoplanetary%20habitability.pdf) to read it
   
 </div>
 
